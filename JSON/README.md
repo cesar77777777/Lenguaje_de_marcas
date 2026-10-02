@@ -26,4 +26,4 @@ Colección de ejercicios de estructuración, sintaxis y validación de datos con
 
 [🏠 Volver al Menú Principal](../README.md)
 
-ar
+a

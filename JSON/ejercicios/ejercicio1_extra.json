@@ -1,0 +1,12 @@
+{
+    "marca": "FORD",
+    "modelo": "FIESTA",
+    "matricula": "4733GJU",
+    "kilometros": 20000,
+    "datos del conductor": {
+        "nombre": "Paco",
+        "apellido": "Sánchez",
+        "email":"pepesanchez@gmail.com"
+    }
+
+}
